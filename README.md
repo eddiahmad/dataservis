@@ -1,2 +1,2 @@
 # Eddi Servis
-Berisi berbagi skema dan data servis
+SKEMA dari Roland XPS 10 
